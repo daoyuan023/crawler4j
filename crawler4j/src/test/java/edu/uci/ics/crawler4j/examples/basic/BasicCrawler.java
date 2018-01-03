@@ -91,6 +91,6 @@ public class BasicCrawler extends WebCrawler {
             }
         }
 
-        logger.debug("=============");
+        logger.debug("================================================");
     }
 }
